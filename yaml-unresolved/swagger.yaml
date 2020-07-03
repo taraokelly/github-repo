@@ -1,6 +1,6 @@
 swagger: '2.0'
 info:
-  description: Updated on GitHub again
+  description: Updated on GitHub againbbb
   version: "1.0.0"
   title: Swagger Petstore
   termsOfService: http://swagger.io/terms/io
